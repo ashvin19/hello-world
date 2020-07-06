@@ -1,7 +1,15 @@
 welcome to ashvin's new github repository
 
+recipes:
 
 chicken 
 mutton
 
+beans 
+pizza
+
+done my changes
+
+
 thank you
+
